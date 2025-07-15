@@ -16,6 +16,10 @@ This project facilitates the “Friendship Link” hospitality scheme. It connec
 - **Infrastructure:** Microsoft Azure
 - **Email Service:** SwiftMailer (SMTP)
 
+
+## Web App - URL
+  https://friendshiplink.azurewebsites.net/master/
+
 ## 🔧 Features
 - Admin portal for secure login/logout
 - Match creation between students and host families
