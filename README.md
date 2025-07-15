@@ -27,8 +27,9 @@ This project facilitates the “Friendship Link” hospitality scheme. It connec
 - Email notifications for successful matches
 - Preference-based filtering system
 - Session management and database abstraction
-
 ## 📁 Project Structure
+
+<pre><code>
 friendship-app/
 ├── css/                       # Stylesheets
 ├── fonts/                     # Font assets
@@ -51,6 +52,7 @@ friendship-app/
 ├── login.php / logout.php     # Authentication logic
 ├── index.php / home.php       # Landing / Homepage
 └── README.md                  # Project documentation
+</code></pre>
 
 ## 🚀 Hosting
 Deployed on **Microsoft Azure**, with MySQL as the backend and SwiftMailer for email services.
